@@ -3,7 +3,7 @@
 A simple command-line Java application that allows users to rent and return cars. It provides functionalities to manage car rentals, customers, and calculate rental prices.
 
 
-***Features**
+* **Features**
 
 1.Add and manage cars in the system.
 2.Register customers for renting cars.
@@ -14,7 +14,7 @@ A simple command-line Java application that allows users to rent and return cars
 
 
 
-***Installation**
+* **Installation**
 
 1.Clone the repository :
 ```git clone https://github.com/VedantDarokar/Car_Rental_System.git```
@@ -31,7 +31,7 @@ A simple command-line Java application that allows users to rent and return cars
 
 
 
-***Usage**
+* **Usage**
 1.Start the application and choose from the menu options:
 -Rent a Car
 -Return a Car
@@ -48,7 +48,7 @@ A simple command-line Java application that allows users to rent and return cars
 
 
 
-***Example Interaction**
+* **Example Interaction**
 
 ```===== Car Rental System =====
 1. Rent a Car
