@@ -11,9 +11,6 @@ A simple command-line Java application that allows users to rent and return cars
 4.Calculate rental costs based on days rented.
 5.Simple command-line interface for user interaction.
 
-
-
-
 * **Installation**
 
 1.Clone the repository :
@@ -28,11 +25,10 @@ A simple command-line Java application that allows users to rent and return cars
 4.Run the application :
 ```java -cp bin Car_Rental_App```
 
-
-
-
 * **Usage**
+  
 1.Start the application and choose from the menu options:
+
 -Rent a Car
 -Return a Car
 -Exit
@@ -43,10 +39,6 @@ A simple command-line Java application that allows users to rent and return cars
 3.Confirm your rental and view the rental information.
 
 4.To return a car, enter the car ID, and the system will process the return.
-
-
-
-
 
 * **Example Interaction**
 
